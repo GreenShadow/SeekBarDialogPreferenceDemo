@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.greenshadow.seekbardialogpreference.SeekBarPreference
+        android:defaultValue="0"
+        android:dialogLayout="@layout/dialog_view"
+        android:dialogTitle="锐化值控制"
+        android:key="asd"
+        android:negativeButtonText="取消"
+        android:positiveButtonText="确定"
+        android:title="锐化值控制" />
+</PreferenceScreen>
